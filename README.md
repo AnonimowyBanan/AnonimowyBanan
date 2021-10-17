@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @AnonimowyBanan
+- 👀 I’m interested in programing but I'm still noob
+- 🌱 I’m currently learning to programing in Java
+- 📫 How to reach me halama.robert497@gmail.com
