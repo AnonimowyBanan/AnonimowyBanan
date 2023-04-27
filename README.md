@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @AnonimowyBanan
-- 👀 I’m interested in programing but I'm still noob
-- 🌱 I’m currently learning to programing in Java and Python
-- 📫 How to reach me halama.robert497@gmail.com
--  I am a student of the University of Silesia
+
